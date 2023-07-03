@@ -10,7 +10,7 @@
   <li>Jogos de Design de Interiores</li>
   <li>The Weeknd</li>
   <li>Doramas</li>
-  <li>Seo Ye-ji</li>
+  <li>Design Gráfico</li>
   <li>Documentários sobre casos criminais</li>
   <li>Pintura</li>
 </ol>
