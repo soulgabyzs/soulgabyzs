@@ -1,3 +1,6 @@
+<img width="100%" height="100" src="https://github.com/user-attachments/assets/dadd4d3c-14f3-4546-831f-b022b8ce975b"/>
+
+
 ### Oii, eu sou a Gabi!
 
 - 💻 Cursando técnico em programação <img align="right" height="200px" alt="gabimonterosso" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmYWZxeXlxazZ2anp5cnR5ZWFxaWRseXBvN3AwcXNxaG1rZWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SReAeJfwMsNkQZBrEe/giphy.gif">
