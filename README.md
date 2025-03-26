@@ -20,5 +20,5 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div> <br>
 
-![Gabi Monterosso GitHub stats](https://github-readme-stats.vercel.app/api?username=soulgabyzs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulgabyzs\&layout=compact&theme=radical)
+![Gabi Monterosso GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimonterosso&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimonterosso\&layout=compact&theme=radical)
