@@ -1,4 +1,4 @@
-### Olá, eu sou a Gabi!
+### Oii, eu sou a Gabi!
 
 - 💻 Cursando técnico em programação <img align="right" height="200px" alt="gabimonterosso" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlmYWZxeXlxazZ2anp5cnR5ZWFxaWRseXBvN3AwcXNxaG1rZWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SReAeJfwMsNkQZBrEe/giphy.gif">
 - 🚀 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84)
